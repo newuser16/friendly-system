@@ -1,3 +1,4 @@
+
 #variable new contain a string
 new = "various artist topic"
 print(type(new))
