@@ -1,0 +1,22 @@
+#variable new contain a string
+new = "various artist topic"
+print(type(new))
+
+#variable new_1 contain a string 
+new_1="1522"
+print(type(new_1))
+
+#variable new_13 contain a integer data type
+new_13= 1519
+print(type(new_13))
+
+#variable new_194 data type is float
+new_194= 9.5
+print(type(new_194))
+
+# output 
+#concatenate variable new_22 with variable new_6
+new_22="mirror"
+new_497="445987"
+new_6="ing"
+print(new_6+new_22)
