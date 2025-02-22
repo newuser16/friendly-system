@@ -1,0 +1,10 @@
+
+int fn01 = 167
+int fn02 = 43
+int fn03 = 236
+int fn04 = 20
+int fnp01 = 2639
+// Output 
+// Your IP address asigned is: 167.43.236.20     at port number 2639
+ConsoleWriteLine($"Your IP address assigned is: {fn01}+"."+{fn02}+"."+{fn03}+"."+{fn04}/t +"at port number"+{fnp01}/n");
+
